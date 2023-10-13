@@ -1,0 +1,1 @@
+Janjyoti Multiple College

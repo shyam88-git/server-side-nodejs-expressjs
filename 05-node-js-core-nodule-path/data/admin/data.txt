@@ -1,0 +1,3 @@
+Press Ctrl+Shift+P (or Cmd+Shift+P on macOS) to open the Command Palette.
+Type "Tasks: Run Task" and select "Tasks: Run Task" from the suggestions.
+Choose "External Library" (the label you provided in tasks.json) from the list of available tasks.
